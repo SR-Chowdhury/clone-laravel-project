@@ -3,11 +3,19 @@
 ## How to clone and run Laravel project from `Github / Gitlab`
 
 - [ ] Using VS code
-  * press `ctrl+shift+p` then write `git:clone paste-link`
-  * Go to the terminal / Git bash then run `composer install` or  `composer update`
-  * Then run `copy .env.example .env`
-  * Then run `php artisan key:generate`
-  * Then run `php artisan serve --port=33xx
+  * press **`ctrl+shift+p`** then write **`git:clone paste-link`**
+  * Go to the terminal / Git bash then run **`composer install`** or **`composer update`**
+  * Then run **`copy .env.example .env`**
+  * Then run **`php artisan key:generate`**
+  * Then run **`php artisan serve --port=33xx`**
+ 
+- [ ] Download Zip file
+  * First download zip file from github
+  * Extract the folder to xampp/htdocs
+  * Go to the terminal / Git bash then run **`composer install`** or **`composer update`**
+  * Then run **`copy .env.example .env`**
+  * Then run **`php artisan key:generate`**
+  * Then run **`php artisan serve --port=33xx`**
 
 # EXPL:first_quarter_moon:RE SUPER:star2: W:last_quarter_moon:RLD 
 
